@@ -485,35 +485,42 @@ img {
   background-color: var(--first-color);
 }
 
+.skills__mongodb,
+.skills__c {
+  width: 60%;
+}
+
+.skills__python,
 .skills__html {
   width: 90%;
 }
 
+.skills__react,
+.skills__git,
+.skills__java,
 .skills__css {
   width: 80%;
 }
 
+.skills__android,
 .skills__js {
-  width: 60%;
+  width: 75%;
 }
-
-.skills__react {
+.skills__sql {
   width: 85%;
-}
-
-.skills__php {
-  width: 80%;
 }
 
 .skills__node {
   width: 70%;
 }
 
-.skills__mongo {
-  width: 90%;
+.skills__php,
+.skills__ts {
+  width: 50%;
 }
 
-.skills__python {
+.skills__azure,
+.skills__docker {
   width: 55%;
 }
 
